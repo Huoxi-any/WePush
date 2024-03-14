@@ -22,7 +22,7 @@
         <logback.version>1.2.3</logback.version>
         <weixin-java-mp.version>4.1.0</weixin-java-mp.version>
         <weixin-java-cp.version>4.1.0</weixin-java-cp.version>
-        <weixin-java-miniapp.version>4.1.0</weixin-java-miniapp.version>
+        <weixin-java-miniapp.version>4.6.1.B</weixin-java-miniapp.version>
         <emoji-java.version>5.1.1</emoji-java.version>
         <hutool-all.version>5.4.4</hutool-all.version>
         <opencsv.version>5.2</opencsv.version>
@@ -45,7 +45,7 @@
         <quartz.version>2.3.2</quartz.version>
         <okhttp.version>4.9.1</okhttp.version>
         <aliyun-java-sdk-dysmsapi.version>1.1.0</aliyun-java-sdk-dysmsapi.version>
-        <bce-java-sdk.version>0.10.134</bce-java-sdk.version>
+        <bce-java-sdk.version>0.10.298</bce-java-sdk.version>
         <qiniu-java-sdk.version>7.3.0</qiniu-java-sdk.version>
         <flatlaf.version>2.3</flatlaf.version>
     </properties>
