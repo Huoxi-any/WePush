@@ -31,7 +31,7 @@
         <fastjson.version>1.2.74</fastjson.version>
         <sun-mail.version>1.6.2</sun-mail.version>
         <aliyun-java-sdk-core.version>4.4.2</aliyun-java-sdk-core.version>
-        <poi.version>4.1.2</poi.version>
+        <poi.version>5.0.0</poi.version>
         <AppleJavaExtensions.version>1.4</AppleJavaExtensions.version>
         <qcloudsms.version>1.0.6</qcloudsms.version>
         <yunpian-java-sdk.version>1.2.7</yunpian-java-sdk.version>
